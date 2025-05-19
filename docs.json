@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "palm",
+  "name": "Alfred hospitality AI",
   "colors": {
-    "primary": "#ff00ff",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#171614",
+    "light": "#ff3333",
+    "dark": "#171614"
   },
   "favicon": "/favicon.svg",
   "navigation": {
