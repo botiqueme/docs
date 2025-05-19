@@ -3,10 +3,11 @@
   "theme": "palm",
   "name": "Alfred hospitality AI",
   "colors": {
-    "primary": "#171614",
+    "primary": "#ff3333",
     "light": "#ff3333",
-    "dark": "#171614"
+    "dark": "#ff3333"
   },
+  "description": "Alfred Hospitality AI user guides",
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
@@ -76,8 +77,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/Alfred-logo-transparent.svg",
+    "dark": "/logo/Alfred-logo-transparent.svg"
   },
   "navbar": {
     "links": [
